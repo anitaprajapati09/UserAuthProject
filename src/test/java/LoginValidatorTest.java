@@ -1,7 +1,10 @@
+package src.test.java;
 import org.junit.*;
 
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+
+import src.main.java.LoginValidator;
 
 public class LoginValidatorTest {
 
