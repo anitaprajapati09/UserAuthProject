@@ -1,8 +1,8 @@
 package src.test.java;
 import org.junit.*;
-
-import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+
 
 import src.main.java.LoginValidator;
 
