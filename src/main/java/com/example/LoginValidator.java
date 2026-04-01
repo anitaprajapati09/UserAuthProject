@@ -1,5 +1,5 @@
-package src.main.java;
-//import java.util.*;
+package com.example; 
+
 
 public class LoginValidator {
 
@@ -22,7 +22,6 @@ public class LoginValidator {
             return false;
         }
 
-        // Dummy hardcoded credentials for practice
         return username.equals("admin") && password.equals("admin123");
     }
 }
